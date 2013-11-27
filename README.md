@@ -1,4 +1,4 @@
-svn_codescanner
+Subversion Code Scanner
 ===============
 
 Subversion code scanner
