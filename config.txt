@@ -1,0 +1,13 @@
+##################################################################
+##
+# Config. file for the Code Scanner
+##
+# Make your entries here to make the code scanner work perfectly
+#################################################################
+
+diffFilename=/tmp/diff_file_code_scanner.txt
+svnBaseDir=<YOUR SVN BASE DIR.>
+malicious_file_list_name=/tmp/malicious_file_list.txt
+XMLPatternfilename=./Rules.xml
+available_Directories=<LIST OF DIR.s TO BE INCLUDED FOR CODE SCANNING>
+classpath=<CLASSPATH JARs IF ANY>

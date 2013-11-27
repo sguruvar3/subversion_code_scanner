@@ -1,0 +1,8 @@
+<Ruleset>
+  <rule id="email">
+      <pattern>(mailto:|)[A-z0-9._+-]+[@][A-z0-9_-]+.[A-z]{2,4}</pattern>
+  </rule>
+  <rule id="url">
+      <pattern>https?://[\w-\d]+(?:.[\w-\d]+)*</pattern>
+  </rule>
+</Ruleset>
