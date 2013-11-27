@@ -1,7 +1,6 @@
 Subversion Code Scanner
 ===============
 
-Subversion code scanner
 
 To detect potential security attacks such as phishing, cross site scripting (XSS) etc. by inspecting the code base [HTML, JavaScript?, XSL, Java, C....].
 
